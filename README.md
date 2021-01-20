@@ -3,14 +3,14 @@
 ## Noah Looomis
 
 ##### noah.loomis@me.com
-First-year Heritage Computer Science student
+Second Heritage Computer Science student
 
 ### What is the PEA?
 The program exit assignment is an assignement that we have to do. Like the entire course, it is there to prepare us for the working world. It is necessary to completing this course.
 
-### Courses
-* Web programming 1
-* Programming 1
+### First Year Courses
+* Web programming I
+* Programming I
 * Hardware and OS
 * Math for Computer Science
 * Web Programming II
@@ -18,3 +18,11 @@ The program exit assignment is an assignement that we have to do. Like the entir
 * Networks
 * Business in the workplace
 
+### Second Year Courses
+* Web Programming III
+* Web Programming IV
+* Web Programming V
+* Programming III
+* Database I
+* Database II
+* System Analysis 
